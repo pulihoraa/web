@@ -1,1 +1,1 @@
-# Repo for [pulihoraa.com](http://www.pulihoraa.com/)techpulihoraa.com deployments :-D   <br />
+### for [pulihoraa.com](http://www.pulihoraa.com/) deployments :-D   <br />
